@@ -91,8 +91,9 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="md-form mb-0">
-                            <input type="text" id="subject" name="subject" class="form-control">
                             <label for="subject" class="">Subject</label>
+							<input type="text" id="subject" name="subject" class="form-control">
+                            
                         </div>
                     </div>
                 </div>
@@ -105,8 +106,9 @@
                     <div class="col-md-12">
 
                         <div class="md-form">
-                            <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
                             <label for="message">Your message</label>
+							<textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
+                            
                         </div>
 
                     </div>
